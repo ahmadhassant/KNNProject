@@ -1,0 +1,134 @@
+
+FPBST
+2d-synthdata.txt	Time to build 2 Furthest points BST	3	
+--2furthest poipnts Points-Tree Stats--
+Number of all nodes: 39
+sum of all examples in all nodes: 114
+Number of Leaves: 20
+maxDepth: 7
+sum of ex in all Leaves: 20
+num ex in training set : 20
+min numebr of ex in a Leaf: 1
+max numebr of ex in a Leaf: 1
+avrg of ex in all Leaves: 1
+Log # of all examples : 4.32192809488736
+SQRT # of all examples: 4.47213595499958
+-- End of Tree Stats--
+
+[20(5,19)] 
+[10(5,17)] [10(16,18)] 
+[3(5,8)] [7(6,3)] [3(16,13)] [7(4,19)] 
+[1(5)-Leaf] [2(7,8)] [2(6,2)] [5(0,1)] [1(16)-Leaf] [2(12,13)] [6(10,18)] [1(19)-Leaf] 
+[1(7)-Leaf] [1(8)-Leaf] [1(6)-Leaf] [1(2)-Leaf] [2(0,3)] [3(14,1)] [1(12)-Leaf] [1(13)-Leaf] [3(10,4)] [3(11,15)] 
+[1(0)-Leaf] [1(3)-Leaf] [1(14)-Leaf] [2(1,17)] [1(10)-Leaf] [2(4,9)] [1(11)-Leaf] [2(15,18)] 
+[1(1)-Leaf] [1(17)-Leaf] [1(4)-Leaf] [1(9)-Leaf] [1(15)-Leaf] [1(18)-Leaf] 
+
+
+DT0
+2d-synthdata.txt	Time to build 2 Furthest points Decision Tree	0	
+--2furthest poipnts Points- Decision Tree Stats--
+Number of all nodes: 23
+sum of all examples in all nodes: 91
+Number of Leaves: 12
+maxDepth: 7
+sum of ex in all Leaves: 20
+num ex in training set : 20
+min numebr of ex in a Leaf: 1
+max numebr of ex in a Leaf: 4
+avrg of ex in all Leaves: 1.66666666666667
+Log # of all examples : 4.32192809488736
+SQRT # of all examples: 4.47213595499958
+-- End of DTree Stats--
+
+
+[20(5,13)] {0.5 0.5 }
+[10(5,17)] {1.3 0.7 }[10(4,13)] {0.7 1.3 }
+[3(5,7,8)-Leaf] {2.3 0.7 }[7(6,3)] {2.0 1.0 }[6(4,15)] {1.0 2.0 }[4(12,13,16,19)-Leaf] {0.7 2.3 }
+[2(6,2)-Leaf] {3.0 1.0 }[5(0,1)] {2.6 1.4 }[4(10,11)] {1.5 2.5 }[2(18,15)-Leaf] {1.0 3.0 }
+[2(0,3)-Leaf] {3.6 1.4 }[3(14,1)] {2.9 2.1 }[2(10,9)] {2.0 3.0 }[2(4,11)] {2.0 3.0 }
+[1(14)-Leaf] {2.9 3.1 }[2(1,17)] {3.4 2.6 }[1(10)-Leaf] {2.0 4.0 }[1(9)-Leaf] {3.0 3.0 }[1(4)-Leaf] {3.0 3.0 }[1(11)-Leaf] {2.0 4.0 }
+[1(1)-Leaf] {4.4 2.6 }[1(17)-Leaf] {3.4 3.6 }
+
+
+
+
+DT0+
+
+
+2d-synthdata.txt	Time to build 2 Furthest points Decision Tree	30
+--2furthest poipnts Points- Decision Tree Stats--
+Number of all nodes: 25
+sum of all examples in all nodes: 93
+Number of Leaves: 13
+maxDepth: 7
+sum of ex in all Leaves: 20
+num ex in training set : 20
+min numebr of ex in a Leaf: 1
+max numebr of ex in a Leaf: 4
+avrg of ex in all Leaves: 1.53846153846154
+Log # of all examples : 4.32192809488736
+SQRT # of all examples: 4.47213595499958
+-- End of DTree Stats--
+
+	
+
+[20(5,13)] {0.5 0.5 }
+[10(5,17)] {1.3 0.7 }[10(4,13)] {0.7 1.3 }
+[3(5,7,8)-Leaf] {2.3 0.7 }[7(6,3)] {2.0 1.0 }[6(4,15)] {1.0 2.0 }[4(12,13,16,19)-Leaf] {0.7 2.3 }
+[2(6,2)-Leaf] {3.0 1.0 }[5(1,0)] {2.6 1.4 }[4(11,10)] {1.5 2.5 }[2(18,15)-Leaf] {1.0 3.0 }
+[2(1,17)] {3.1 1.9 }[3(0,14)] {3.3 1.7 }[2(4,11)] {2.0 3.0 }[2(9,10)] {2.0 3.0 }
+[1(1)-Leaf] {4.1 1.9 }[1(17)-Leaf] {3.1 2.9 }[1(0)-Leaf] {4.3 1.7 }[2(3,14)] {3.8 2.2 }[1(4)-Leaf] {3.0 3.0 }[1(11)-Leaf] {2.0 4.0 }[1(9)-Leaf] {3.0 3.0 }[1(10)-Leaf] {2.0 4.0 }
+[1(3)-Leaf] {4.8 2.2 }[1(14)-Leaf] {3.8 3.2 }
+
+
+DT1
+2d-synthdata.txt	Time to build 2 Furthest points Decision Tree	0
+--2furthest poipnts Points- Decision Tree Stats--
+Number of all nodes: 23
+sum of all examples in all nodes: 91
+Number of Leaves: 12
+maxDepth: 7
+sum of ex in all Leaves: 20
+num ex in training set : 20
+min numebr of ex in a Leaf: 1
+max numebr of ex in a Leaf: 4
+avrg of ex in all Leaves: 1.66666666666667
+Log # of all examples : 4.32192809488736
+SQRT # of all examples: 4.47213595499958
+-- End of DTree Stats--
+
+	
+
+[20(5,13)] {0.5 0.5 }
+[10(5,17)] {2.1 0.9 }[10(4,13)] {0.9 2.1 }
+[3(5,7,8)-Leaf] {5.1 0.9 }[7(6,3)] {4.2 1.8 }[6(4,15)] {1.9 4.1 }[4(12,13,16,19)-Leaf] {0.9 5.1 }
+[2(6,2)-Leaf] {8.2 1.8 }[5(0,1)] {6.6 3.4 }[4(10,11)] {3.9 6.1 }[2(18,15)-Leaf] {1.9 8.1 }
+[2(0,3)-Leaf] {11.6 3.4 }[3(14,1)] {8.3 6.7 }[2(10,9)] {6.4 8.6 }[2(4,11)] {6.4 8.6 }
+[1(14)-Leaf] {8.3 12.7 }[2(1,17)] {11.3 9.7 }[1(10)-Leaf] {6.4 14.6 }[1(9)-Leaf] {12.4 8.6 }[1(4)-Leaf] {12.4 8.6 }[1(11)-Leaf] {6.4 14.6 }
+[1(1)-Leaf] {18.3 9.7 }[1(17)-Leaf] {11.3 16.7 }
+
+
+DT1+
+
+2d-synthdata.txt	Time to build 2 Furthest points Decision Tree	0	
+--2furthest poipnts Points- Decision Tree Stats--
+Number of all nodes: 25
+sum of all examples in all nodes: 97
+Number of Leaves: 13
+maxDepth: 7
+sum of ex in all Leaves: 20
+num ex in training set : 20
+min numebr of ex in a Leaf: 1
+max numebr of ex in a Leaf: 3
+avrg of ex in all Leaves: 1.53846153846154
+Log # of all examples : 4.32192809488736
+SQRT # of all examples: 4.47213595499958
+-- End of DTree Stats--
+
+[20(5,19)] {0.5 0.5 }
+[10(5,17)] {2.1 0.9 }[10(16,18)] {0.9 2.1 }
+[3(5,7,8)-Leaf] {5.1 0.9 }[7(6,3)] {4.2 1.8 }[3(12,13,16)-Leaf] {0.9 5.1 }[7(4,19)] {1.8 4.2 }
+[2(6,2)-Leaf] {8.2 1.8 }[5(1,0)] {6.6 3.4 }[6(10,18)] {3.1 6.9 }[1(19)-Leaf] {1.8 8.2 }
+[2(1,17)] {9.1 5.9 }[3(0,14)] {10.0 5.0 }[3(4,10)] {6.4 8.6 }[3(11,15,18)-Leaf] {3.1 11.9 }
+[1(1)-Leaf] {15.1 5.9 }[1(17)-Leaf] {9.1 11.9 }[1(0)-Leaf] {16.0 5.0 }[2(3,14)] {13.0 8.0 }[1(4)-Leaf] {12.4 8.6 }[2(9,10)] {9.4 11.6 }
+[1(3)-Leaf] {20.0 8.0 }[1(14)-Leaf] {13.0 15.0 }[1(9)-Leaf] {16.4 11.6 }[1(10)-Leaf] {9.4 18.6 }
